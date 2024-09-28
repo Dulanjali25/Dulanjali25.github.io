@@ -1,5 +1,3 @@
-<link rel="stylesheet" type="text/css" href="styles.css">
-
 Welcome to my personal portfolio! I am a Biotechnology student with a passion for Molecular and Medical Biotechnology.
 
 ---
