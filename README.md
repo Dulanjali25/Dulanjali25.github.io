@@ -87,6 +87,9 @@ Hello! I’m Dulanjali Thilkarathna, a 20-year-old Biotechnology undergraduate f
 - **Tamil**    : Basic
 
 ---
+[Download My Resume](https://github.com/Dulanjali25/Dulanjali25.github.io/raw/main/HS24510221_Thilakarathna K. A. B. D.pdf)
+
+---
 
 ## **Contact Me**
 
