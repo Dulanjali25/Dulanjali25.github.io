@@ -7,7 +7,7 @@ Hello! I’m Dulanjali Thilkarathna, a 20-year-old Biotechnology undergraduate f
 
 ---
 
-![My Bio Image](https://github.com/Dulanjali25/Dulanjali25.github.io/blob/main/WhatsApp%20Image%202024-09-28%20at%2020.10.15_43458e61.jpg?raw=true) style="width: 150px; border-radius: 50%;"
+![My Bio Image](https://github.com/Dulanjali25/Dulanjali25.github.io/blob/main/WhatsApp%20Image%202024-09-28%20at%2020.10.15_43458e61.jpg?raw=true)
 
 ---
 
