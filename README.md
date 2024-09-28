@@ -3,26 +3,37 @@ Welcome to my personal portfolio! I am a Biotechnology student with a passion fo
 ---
 
 ## **About Me**
-I'm currently pursuing my **BSc (Hons) in Biotechnology** at SLIIT University. I have a strong interest in Molecular Biotechnology and aim to contribute to research in the field.
+Hello! I’m Dulanjali Thilkarathna, a 20-year-old Biotechnology undergraduate from Kandy, Sri Lanka. Currently pursuing my studies at SLIIT Campus in Malabe, I have a keen interest in the fields of medical and molecular biotechnology. My academic journey has equipped me with a solid foundation in scientific principles and laboratory techniques, and I am excited to apply this knowledge in practical settings.
 
-- 📍 **Location**: Kandy, Sri Lanka (Currently studying in Malabe)
-- 🎓 **University**: SLIIT University
-- 🌱 **Areas of Interest**: Medical Biotechnology, Molecular Biotechnology, Forensics
 
 ---
 
-## **Skills**
+## **Education Qualifications**
 
-### 💡 Technical Skills
-- **Lab Skills**: Analytical Chemistry, Physical Chemistry, Biology
-- **Programming**: HTML, CSS, Markdown
-- **Office Applications**: Word, Excel, PowerPoint
+- **BSc (Hons) in Biotechnology Undergraduate** - SLIIT Campus (Present)
+- **GCE Advanced Level in English Medium** - Kandy Girls' High School (2023)
+  - Biology   : C
+  - Chemistry : B
+  - Physics   : C
+  - English   : A
+- **GCE Ordinary Level in English Medium** - Kandy Girls' High School (2020)
+  - Buddhism                 : A
+  - Mathamathics             : A
+  - Science                  : A
+  - History                  : A
+  - English Language         : A
+  - Sinhala Lan. and Lit     : A
+  - Second Language Tamil    : A
+  - Health and Physical Edu. : A
+  - English Literature       : A
 
-### 💡 Soft Skills
-- Effective Communication
-- Team Collaboration
-- Adaptability and Problem-Solving
-- Critical Thinking and Quick Decision Making
+---
+
+## **Certifications**
+
+- **Diploma in Information Technology** - ICBT Kandy Campus
+- **Diploma in English** - ICBT Kandy Campus
+- **Participation in Agri GenZ Workshop** - SLIIT Campus
 
 ---
 
@@ -42,35 +53,22 @@ I'm currently pursuing my **BSc (Hons) in Biotechnology** at SLIIT University. I
 
 ---
 
-## **Education**
+## **Skills**
 
-- **BSc (Hons) in Botechnology Undergraduate** - SLIIT University (Present)
-- **GCE Advanced Level in English Medium** - Kandy Girls' High School (2023)
-  - Biology: C
-  - Chemstry: B
-  - Physics: C
-- **GCE Ordinary Level in Englisg Medium** - Kandy Girls' High School (2020)
-  - Buddhism: A
-  - Mathamathics: A
-  - Science: A
-  - History: A
-  - English Language: A
-  - Sinhala Language and Literature: A
-  - Second Language Tamil: A
-  - Health and Physical Edycation: A
-  - English Literature: A
+### 💡 Technical Skills
+- **Lab Skills**: Analytical Chemistry, Physical Chemistry, Biology
+- **Programming**: HTML, CSS, Markdown
+- **Office Applications**: Word, Excel, PowerPoint
+
+### 💡 Soft Skills
+- Effective Communication
+- Team Collaboration
+- Adaptability and Problem-Solving
+- Critical Thinking and Quick Decision Making
 
 ---
 
-## **Certifications**
-
-- **Diploma in Information Technology** - ICBT Kandy Campus
-- **Diploma in English** - ICBT Kandy Campus
-- **Participation in Agri GenZ Workshop** - SLIIT University
-
----
-
-### **Hobbies & Interests**
+## **Hobbies & Interests**
 
 - 📖 Reading about the latest trends in Biotechnology
 - 🧬 Conducting small experiments
@@ -78,12 +76,22 @@ I'm currently pursuing my **BSc (Hons) in Biotechnology** at SLIIT University. I
 
 ---
 
+## **Languages**
+
+- **English**  : Fluent
+- **Sinhalese**: Native
+- **Tamil**    : Basic
+
+---
+
 ## **Contact Me**
 
 Feel free to reach out to me for collaboration or to learn more about my work:
 
-- **Email**: [dulanjalithilakarathna2005@.com](mailto:dulanjalithilakarathna2005@gmail.com)
+- **Email**: [dulanjalithilakarathna2005@gmail.com](mailto:dulanjalithilakarathna2005@gmail.com)
 - **GitHub**: [github.com/Dulanjali25](https://github.com/Dulanjali25)
+- Phone: [+94773065670](tel:+94773065670)
+
 
 > “Science and everyday life cannot and should not be separated.” – Rosalind Franklin
 
