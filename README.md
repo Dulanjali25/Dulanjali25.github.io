@@ -94,7 +94,7 @@ Feel free to reach out to me for collaboration or to learn more about my work:
 
 - **Email**: [dulanjalithilakarathna2005@gmail.com](mailto:dulanjalithilakarathna2005@gmail.com)
 - **GitHub**: [github.com/Dulanjali25](https://github.com/Dulanjali25)
-- Phone: [+94773065670](tel:+94773065670)
+- **Phone**: [+94773065670](tel:+94773065670)
 
 
 > “Science and everyday life cannot and should not be separated.” – Rosalind Franklin
