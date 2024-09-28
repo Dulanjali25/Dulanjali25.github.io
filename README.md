@@ -3,11 +3,13 @@ Welcome to my personal portfolio! I am a Biotechnology student with a passion fo
 ---
 
 ## **About Me**
+
 Hello! I’m Dulanjali Thilkarathna, a 20-year-old Biotechnology undergraduate from Kandy, Sri Lanka. Currently pursuing my studies at SLIIT Campus in Malabe, I have a keen interest in the fields of medical and molecular biotechnology. My academic journey has equipped me with a solid foundation in scientific principles and laboratory techniques, and I am excited to apply this knowledge in practical settings.
 
 <div style="text-align: center;">
 <img src="https://github.com/Dulanjali25/Dulanjali25.github.io/blob/main/WhatsApp%20Image%202024-09-28%20at%2020.10.15_43458e61.jpg?raw=true" alt="My Image" style="width: 150px; height: auto; border-radius: 50%;" />
 </div>
+
 ---
 
 ## **Education Qualifications**
@@ -20,11 +22,11 @@ Hello! I’m Dulanjali Thilkarathna, a 20-year-old Biotechnology undergraduate f
   - English   : A
 - **GCE Ordinary Level in English Medium** - Kandy Girls' High School (2020)
   - Buddhism                 : A
-  - Mathamathics             : A
+  - Mathemathics             : A
   - Science                  : A
   - History                  : A
   - English Language         : A
-  - Sinhala Lan. and Lit     : A
+  - Sinhala Lan. and Lit.    : A
   - Second Language Tamil    : A
   - Health and Physical Edu. : A
   - English Literature       : A
