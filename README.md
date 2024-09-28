@@ -1,5 +1,3 @@
-# **Dulanjali's Portfolio**
-
 Welcome to my personal portfolio! I am a Biotechnology student with a passion for Molecular and Medical Biotechnology.
 
 ---
@@ -16,14 +14,15 @@ I'm currently pursuing my **BSc (Hons) in Biotechnology** at SLIIT University. I
 ## **Skills**
 
 ### 💡 Technical Skills
-- **Biotechnology Techniques**: PCR, Gel Electrophoresis, DNA Extraction
-- **Lab Skills**: Analytical Chemistry, Physical Chemistry, Microbiology
-- **Programming**: HTML, CSS, Markdown, Makefile
+- **Lab Skills**: Analytical Chemistry, Physical Chemistry, Biology
+- **Programming**: HTML, CSS, Markdown
+- **Office Applications**: Word, Excel, PowerPoint
 
 ### 💡 Soft Skills
 - Effective Communication
 - Team Collaboration
 - Adaptability and Problem-Solving
+- Critical Thinking and Quick Decision Making
 
 ---
 
@@ -45,40 +44,29 @@ I'm currently pursuing my **BSc (Hons) in Biotechnology** at SLIIT University. I
 
 ## **Education**
 
-| Degree                       | University           | Year       |
-|------------------------------|----------------------|------------|
-| BSc (Hons) in Biotechnology   | SLIIT University     | 2024 (Expected) |
-| A/L in Science                | Kandy Girls' School  | 2020       |
-
----
-
-## **Experience**
-
-### **Intern - Biotech Research Lab**
-- Worked on various research projects in the field of Molecular Biotechnology.
-- Gained hands-on experience with laboratory equipment and techniques.
-
-### **Volunteer - University Science Club**
-- Organized workshops and events for university students.
-- Participated in discussions on recent biotech advancements.
+- **BSc (Hons) in Botechnology Undergraduate** - SLIIT University (Present)
+- **GCE Advanced Level in English Medium** - Kandy Girls' High School (2023)
+  - Biology: C
+  - Chemstry: B
+  - Physics: C
+- **GCE Ordinary Level in Englisg Medium** - Kandy Girls' High School (2020)
+  - Buddhism: A
+  - Mathamathics: A
+  - Science: A
+  - History: A
+  - English Language: A
+  - Sinhala Language and Literature: A
+  - Second Language Tamil: A
+  - Health and Physical Edycation: A
+  - English Literature: A
 
 ---
 
 ## **Certifications**
 
-- **Basic Biotechnology Techniques** - BioTec Institute
-- **Analytical Chemistry** - Online Course by Coursera
-- **Web Development** - Completed an HTML and CSS course on Codecademy
-
----
-
-## **Contact Me**
-
-Feel free to reach out to me for collaboration or to learn more about my work:
-
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn**: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- **GitHub**: [github.com/your-username](https://github.com/your-username)
+- **Diploma in Information Technology** - ICBT Kandy Campus
+- **Diploma in English** - ICBT Kandy Campus
+- **Participation in Agri GenZ Workshop** - SLIIT University
 
 ---
 
@@ -89,6 +77,13 @@ Feel free to reach out to me for collaboration or to learn more about my work:
 - 🎨 Drawing and painting in my free time
 
 ---
+
+## **Contact Me**
+
+Feel free to reach out to me for collaboration or to learn more about my work:
+
+- **Email**: [dulanjalithilakarathna2005@.com](mailto:dulanjalithilakarathna2005@gmail.com)
+- **GitHub**: [github.com/Dulanjali25](https://github.com/Dulanjali25)
 
 > “Science and everyday life cannot and should not be separated.” – Rosalind Franklin
 
